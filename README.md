@@ -21,7 +21,7 @@
 <IMG SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
 <a href="https://yazmincedillo.github.io/pagina1/">pagina 1</a>
 <a href="https://yazmincedillo.github.io/pagina2/">pagina 2</a>
-<a href="">enlace</a>
+<a href="https://yazmincedillo.github.io/pagina3/">pagina 3</a>
 <a href="">enlace</a>
 <a href="">enlace</a>
 </BODY>
