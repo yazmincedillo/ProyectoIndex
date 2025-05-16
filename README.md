@@ -14,9 +14,7 @@
 <p>Ramiro Reyna Torres
 <p>602
   <P></P>
-</BODY>
-</HTML>
-</HEAD>
+
 <BODY>
 <IMG SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
 <a href="https://yazmincedillo.github.io/pagina1/">pagina 1</a>
