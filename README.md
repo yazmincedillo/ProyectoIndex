@@ -4,7 +4,7 @@
 </HEAD>
 
 <BODY>
-  <MARQUEE>CENTRO DE ESTUDIOS DE BACHILLERATO CEB 5/11<MARQUEE>
+ 
 <CENTER><H1>Paginas web</H1></CENTER>
 <HR>
 <P>Centro de estudio de bachillerato ceb 511
